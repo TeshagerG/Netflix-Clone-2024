@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import "./Row.css"
 import axios from '../../../Utils/Axios'
-// import { height, width } from '@mui/system';
 import movieTailer from "movie-trailer"
 import YouTube from "react-youtube"
 
